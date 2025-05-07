@@ -12,4 +12,4 @@ Clone the repository and run the setup script as `root`:
 ``` bash
 git clone https://github.com/youruser/brokentower.git
 cd brokentower
-sudo ./setup.sh ``
+sudo ./setup.sh
